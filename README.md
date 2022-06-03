@@ -1,1 +1,1 @@
-Link reset.css in <head> above your stylesheet
+Link reset.css in head above your stylesheet
